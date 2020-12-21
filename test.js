@@ -8,7 +8,7 @@ test('main', async t => {
 
   t.deepEqual(result[0], {
     title: 'vinkla/hashids',
-    subtitle: 'A Hashids bridge for Laravel',
+    subtitle: 'A Hashids bridge for Laravel — ↓ 2,397,877 / ★ 1,583',
     arg: 'https://github.com/vinkla/laravel-hashids',
     mods:
     {
